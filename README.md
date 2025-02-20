@@ -1,5 +1,4 @@
 ## 장영후라고 읽습니다
---
 [![JangYeongHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangYeongHu&show_icons=true&theme=shadow_green&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYeongHu&langs_count=8&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
